@@ -22,7 +22,7 @@ git flow release publish
 <<Update RELEASE_NOTES.md>>
 
 git flow release finish <version>
-git push origin develop
+git push origin developadassada
 git push origin master
 git push --tags
 ```
