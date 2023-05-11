@@ -16,6 +16,7 @@
 .project
 */target/*
 *.pmd
+*.jpd
 mongo-data/*
 .classpath
 .idea/
