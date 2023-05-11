@@ -20,7 +20,7 @@ penetration testing techniques.
 vulnerable to attack. You should disconnect from the Internet while using
 this program.*  WebGoat's default configuration binds to localhost to minimize
 the exposure.
-
+asdadasdsadasd
 **WARNING 2:** *This program is for educational purposes only. If you attempt
 these techniques without authorization, you are very likely to get caught. If
 you are caught engaging in unauthorized hacking, most companies will fire you.
