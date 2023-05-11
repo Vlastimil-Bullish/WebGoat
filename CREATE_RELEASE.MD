@@ -4,7 +4,7 @@
 ### Version numbers
 
 For WebGoat we use milestone releases first before we release the official version, we use `v8.0.0.M3` while tagging
- and 8.0.0.M3 in the `pom.xml`. When we create the final release we remove the milestone release and use 
+ and 8.0.0.M3 in the `pom.xml`. When we createsddadasada the final release we remove the milestone release and use 
  `v8.0.0` in the `pom.xml`
  
 ### Release notes:
