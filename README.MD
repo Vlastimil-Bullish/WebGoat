@@ -25,15 +25,7 @@ the exposure.
 these techniques without authorization, you are very likely to get caught. If
 you are caught engaging in unauthorized hacking, most companies will fire you.
 Claiming that you were doing security research will not work as that is the
-first thing that all hackers claim.*
-
-# Installation instructions:
-
-## 1. Run using Docker
-
-Every release is also published on [DockerHub](https://hub.docker.com/r/webgoat/goatandwolf).
-
-The easiest way to start WebGoat as a Docker container is to use the all-in-one docker container. This is a docker image that has WebGoat and WebWolf running inside.
+first thing that all hackers claim.*dfgdfgfdggdGoat and WebWolf running inside.
 
 ```shell
 
