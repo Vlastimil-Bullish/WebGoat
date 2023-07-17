@@ -14,25 +14,7 @@ application security lessons.
 
 This program is a demonstration of common server-side application flaws. The
 exercises are intended to be used by people to learn about application security and
-penetration testing techniques.
-
-**WARNING 1:** *While running this program your machine will be extremely
-vulnerable to attack. You should disconnect from the Internet while usingdfgdggdgdggsdfgsdrdam webgoat/goatandwolf:v8.2.1
-```
-
-The landing page will be located at: http://localhost  
-WebGoat will be located at: http://localhost:8080/WebGoat  
-WebWolf will be located at: http://localhost:9090/WebWolf
-
-**Important**: *Change the ports if necessary, for example use `127.0.0.1:7777:9090` to map WebWolf to `http://localhost:7777/WebGoat`*  
-
-**Important**: *Choose the correct timezone, so that the docker container and your host are in the same timezone. As it is important for the validity of JWT tokens used in certain exercises.*
-
-
-## 2. Standalone
-
-Download the latest WebGoat and WebWolf release from [https://github.com/WebGoat/WebGoat/releases](https://github.com/WebGoat/WebGoat/releases)
-
+penetration testing techniques.fsdfs
 ```shell
 java -Dfile.encoding=UTF-8 -jar webgoat-server-8.2.1.jar [--server.port=8080] [--server.address=localhost] [--hsqldb.port=9001]
 java -Dfile.encoding=UTF-8 -jar webwolf-8.2.1.jar [--server.port=9090] [--server.address=localhost] [--hsqldb.port=9001]
