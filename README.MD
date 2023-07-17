@@ -17,14 +17,7 @@ exercises are intended to be used by people to learn about application security 
 penetration testing techniques.
 
 **WARNING 1:** *While running this program your machine will be extremely
-vulnerable to attack. You should disconnect from the Internet while using
-this program.*  WebGoat's default configuration binds to localhost to minimize
-the exposure.
-
-**WARNING 2:** *This program is for educational purposes only. If you attempt
-these techniques without authorization, you are very likely to get caught. If
-you are caught engaging in unauthorized hacking, most companies will fire you.
-Claiming that you were doing security research will not work as that is the
+vulnerable to attack. You should disconnect from the Internet while usingsdfsfsfsf
 first thing that all hackers claim.*
 
 # Installation instructions:
