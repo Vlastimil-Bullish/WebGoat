@@ -15,25 +15,7 @@ application security lessons.
 This program is a demonstration of common server-side application flaws. The
 exercises are intended to be used by people to learn about application security and
 penetration testing techniques.
-
-**WARNING 1:** *While running this program your machine will be extremely
-vulnerable to attack. You should disconnect from the Internet while using
-this program.*  WebGoat's default configuration binds to localhost to minimize
-the exposure.
-
-**WARNING 2:** *This program is for educational purposes only. If you attempt
-these techniques without authorization, you are very likely to get caught. If
-you are caught engaging in unauthorized hacking, most companies will fire you.
-Claiming that you were doing security research will not work as that is the
-first thing that all hackers claim.*
-
-# Installation instructions:
-
-## 1. Run using Docker
-
-Every release is also published on [DockerHub](https://hub.docker.com/r/webgoat/goatandwolf).
-
-The easiest way to start WebGoat as a Docker container is to use the all-in-one docker container. This is a docker image that has WebGoat and WebWolf running inside.
+kljjljklse the all-in-one docker container. This is a docker image that has WebGoat and WebWolf running inside.
 
 ```shell
 
@@ -41,12 +23,7 @@ docker run -it -p 127.0.0.1:80:8888 -p 127.0.0.1:8080:8080 -p 127.0.0.1:9090:909
 ```
 
 The landing page will be located at: http://localhost  
-WebGoat will be located at: http://localhost:8080/WebGoat  
-WebWolf will be located at: http://localhost:9090/WebWolf
-
-**Important**: *Change the ports if necessary, for example use `127.0.0.1:7777:9090` to map WebWolf to `http://localhost:7777/WebGoat`*  
-
-**Important**: *Choose the correct timezone, so that the docker container and your host are in the same timezone. As it is important for the validity of JWT tokens used in certain exercises.*
+WebGoat will be located at: http://localhost:8080/WebGoat  dsfs host are in the same timezone. As it is important for the validity of JWT tokens used in certain exercises.*
 
 
 ## 2. Standalone
