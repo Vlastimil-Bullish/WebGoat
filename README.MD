@@ -7,15 +7,7 @@
 [![GitHub release](https://img.shields.io/github/release/WebGoat/WebGoat.svg)](https://github.com/WebGoat/WebGoat/releases/latest)
 [![Gitter](https://badges.gitter.im/OWASPWebGoat/community.svg)](https://gitter.im/OWASPWebGoat/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-# Introduction
-
-WebGoat is a deliberately insecure web application maintained by [OWASP](http://www.owasp.org/) designed to teach web
-application security lessons.
-
-This program is a demonstration of common server-side application flaws. The
-exercises are intended to be used by people to learn about application security and
-penetration testing techniques.
-
+# Introductionsad
 **WARNING 1:** *While running this program your machine will be extremely
 vulnerable to attack. You should disconnect from the Internet while using
 this program.*  WebGoat's default configuration binds to localhost to minimize
