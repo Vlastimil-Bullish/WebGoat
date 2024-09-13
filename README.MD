@@ -37,13 +37,7 @@ WebWolf will be located at: http://localhost:9090/WebWolf (change ports if neces
 * Maven > 3.2.1
 * Your favorite IDE
 * Git, or Git support in your IDE
-
-Open a command shell/window:
-
-```Shell
-git clone git@github.com:WebGoat/WebGoat.git
-```
-
+sss
 Now let's start by compiling the project.
 
 ```Shell
