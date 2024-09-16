@@ -22,12 +22,7 @@ The landing page will be located at: http://localhost
 WebGoat will be located at: http://localhost:8080/WebGoat  
 WebWolf will be located at: http://localhost:9090/WebWolf
 
-**Important**: *Change the ports if necessary, for example use `127.0.0.1:7777:9090` to map WebWolf to `http://localhost:7777/WebGoat`*  
-
-**Important**: *Choose the correct timezone, so that the docker container and your host are in the same timezone. As it is important for the validity of JWT tokens used in certain exercises.*
-
-
-## 2. Standalone
+**Important**: *Change the ports if necessary, for example use `127.0.0.1:7777:9090` to map WebWolf to `http://localhost:7777/WebGoat`*  dd
 
 Download the latest WebGoat and WebWolf release from [https://github.com/WebGoat/WebGoat/releases](https://github.com/WebGoat/WebGoat/releases)
 
