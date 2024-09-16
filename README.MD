@@ -17,7 +17,7 @@ This program is a demonstration of common server-side application flaws. Theddd
 
 docker run -it -p 127.0.0.1:80:8888 -p 127.0.0.1:8080:8080 -p 127.0.0.1:9090:9090 -e TZ=Europe/Amsterdam webgoat/goatandwolf:v8.2.1
 ```
-
+ddd
 The landing page will be located at: http://localhost  
 WebGoat will be located at: http://localhost:8080/WebGoat  
 WebWolf will be located at: http://localhost:9090/WebWolf
